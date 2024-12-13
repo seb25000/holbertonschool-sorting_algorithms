@@ -1,1 +1,16 @@
-
+#include <stdio.h>
+int main()
+{
+FILE *file = fopen(FILE *file = "2-O", "w");
+if (file != NULL)
+{
+fprintf(file, "O(n^2)\n");
+fprintf(file, "O(n^2)\n");
+fprintf(file, "O(n^2)\n");
+fclose(file);
+}
+fclose(file);
+}
+return (0);
+}
+}
