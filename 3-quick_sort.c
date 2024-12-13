@@ -1,4 +1,6 @@
 #include "sort.h"
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * swap - the positions of two elements into an array
  * @array: array
