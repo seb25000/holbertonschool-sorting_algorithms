@@ -1,4 +1,6 @@
 #include "sort.h"
+#include <stdio.h>
+#include <stdlib.h>
 /**
  * selection_sort - function that sorts an array of integers in ascending
  * order using the Selection sort algorithm
