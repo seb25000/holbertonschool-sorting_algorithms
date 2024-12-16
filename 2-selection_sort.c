@@ -1,5 +1,4 @@
 #include "sort.h"
-<<<<<<< HEAD
 #include <stdio.h>
 /**
  * selection_sort - function that sorts an array
@@ -38,8 +37,6 @@ printf(", ");
 printf("\n");
 }
 }
-
-=======
 
 /**
  * swap_ints - Swap two integers in an array.
@@ -84,4 +81,3 @@ void selection_sort(int *array, size_t size)
 		}
 	}
 }
->>>>>>> 28df2684cf5344ecb04abb54b05a11afceced655
