@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 O(n)
 O(n^2)
 O(n^2)
+=======
+Best case: O(n)
+case: O(n^2)
+Worst case: O(n^2)
+>>>>>>> 28df2684cf5344ecb04abb54b05a11afceced655
